@@ -1,4 +1,3 @@
-
 import torch
 
 from transformers import pipeline
@@ -27,9 +26,7 @@ do cérebro humano.
 O aprendizado de máquina permite que sistemas
 identifiquem padrões nos dados e melhorem
 seu desempenho por meio da experiência.
-Os embeddings são representações numéricas
-de textos que permitem comparar o significado
-de diferentes informações.
+
 """
 
 # Dividi o texto em chunks
@@ -104,10 +101,10 @@ while True:
 
     resultado = qa.invoke({"query": pergunta})
 
-    print("\n--- RESPOSTA DO SISTEMA ---")
+    print("\n-- RESPOSTA DO SISTEMA --")
     print(resultado["result"])
 
-    print("\n--- TRECHOS RECUPERADOS ---")
+    print("\n-- TRECHOS RECUPERADOS --")
 
     for documento in resultado["source_documents"]:
         print("-", documento.page_content)

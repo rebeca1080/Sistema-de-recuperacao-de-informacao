@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto tem como objetivo desenvolver um sistema de recuperação de informações utilizando técnicas de Inteligência Artificial, embeddings e banco de dados vetorial.
+Este projeto tem o objetivo desenvolver um sistema de recuperação de informações utilizando Inteligência Artificial, embeddings e banco de dados vetorial.
 
 O sistema utiliza LangChain e FAISS para armazenar e recuperar informações relevantes, permitindo responder perguntas com base em um conteúdo previamente fornecido.
 
@@ -38,7 +38,7 @@ automaticamente.
 
 ## Exemplos de perguntas
 
-- O que é inteligência artificial?
+- o que é inteligência artificial?
 - O que são redes neurais?
 - Como a IA auxilia o mercado financeiro?
 
@@ -53,4 +53,4 @@ automaticamente.
 
 ## Autora
 
-Atividade acadêmico desenvolvido para a disciplina de Tópicos I
+Atividade acadêmica desenvolvido para a disciplina de Tópicos I
