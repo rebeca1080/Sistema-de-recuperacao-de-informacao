@@ -53,4 +53,4 @@ automaticamente.
 
 ## Autora
 
-Atividade acadêmica desenvolvido para a disciplina de Tópicos I
+Atividade acadêmica desenvolvida para a disciplina de Tópicos I
